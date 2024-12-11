@@ -1,7 +1,8 @@
 # Livro de receitas👨‍🍳
 
 Olá, bem vindo ao meu livro de receitas! 
-       <img title="" src="https://www.minhareceita.com.br/app/uploads/2020/09/Estrogonofe-saudavel-desktop.jpg" alt="strogonoff" width="145">
+  
+  <img title="" src="https://www.minhareceita.com.br/app/uploads/2020/09/Estrogonofe-saudavel-desktop.jpg" alt="strogonoff" width="145">
 
 - Strogonoff de Frango 
   
